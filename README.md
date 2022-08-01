@@ -1,2 +1,2 @@
 # Tribute-page
-A tribute page of Steve jobs
+Steve Jobs shows off the iPhone 4 at the 2010 Worldwide Developers Conference
